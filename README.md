@@ -3,6 +3,7 @@ MMD自动跟踪生成VMD动作colab中文版
 
 ## 概要
 ### MMD自动跟踪中文版-准备篇.ipynb
+### MMD_auto_motion_ready_CH.ipynb
 
  - 什么是colab(Google Colaboratory)
  - 如何使用colab
@@ -12,6 +13,7 @@ MMD自动跟踪生成VMD动作colab中文版
  - License许可
 
 ### MMD自动跟踪中文版-执行篇.ipynb
+### MMD_auto_motion_run_CH.ipynb
 
  - MMD自动跟踪工具包的准备
  - MMD自动跟踪工具包执行
